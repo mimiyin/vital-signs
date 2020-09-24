@@ -9,6 +9,6 @@
 
 ### Broadcast Client
 * Drawing opaque particles
-* Particles die on their own schedule
+* Particles trickle in and die on their own schedule
 * Added fake users
 * Randomly positioning and scaling faked users
